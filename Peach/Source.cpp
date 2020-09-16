@@ -17,7 +17,7 @@ int main()
 	int input;
 	while (exit)
 	{
-		//test
+
 		cout << "1. Обычный персептрон." << endl;
 		cout << "2. Персептрон Розенблатта." << endl;
 		cout << "3. Выход из программы." << endl;
