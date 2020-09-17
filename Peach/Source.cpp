@@ -18,8 +18,8 @@ int main()
 	while (exit)
 	{
 		//test
-		cout << "1. Обычный персептрон." << endl;
-		cout << "2. Персептрон Розенблатта." << endl;
+		cout << "1. Базовый персептрон." << endl;
+		cout << "2. Персептрон на основе дерва дихотомии." << endl;
 		cout << "3. Выход из программы." << endl;
 		cin >> input;
 		switch (input)
